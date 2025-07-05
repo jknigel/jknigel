@@ -62,8 +62,7 @@ When not engineering the future, you’ll find me:
 
 ## 💡 Let’s Connect!
 
-Want to collaborate, chat about AI, or challenge me to a badminton match?  
-*Add your links here! (LinkedIn, Website, etc.)*
+Want to collaborate, chat about AI, or challenge me to a badminton match? Get in touch!
 
 ---
 
