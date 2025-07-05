@@ -69,11 +69,6 @@ Want to collaborate, chat about AI, or challenge me to a badminton match?
 
 ### 📊 My GitHub Stats
 
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=jknigel&show_icons=true&hide_border=true&theme=tokyonight" alt="[Your Name]'s GitHub Stats" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jknigel&layout=compact&hide_border=true&theme=tokyonight" alt="Top Languages" />
-</p>
-
 <!-- 👇 THIS IS THE NEW "NIGHT RAINBOW" 3D GRAPH 👇 -->
 <p align="center">
   <img src="https://github-profile-3d-contrib.vercel.app/api?username=jknigel&theme=dark&color=rainbow" alt="My 3D Contribution Graph"/>
