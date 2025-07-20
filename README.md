@@ -36,7 +36,7 @@ Building high-performance, intelligent systems from the ground up using a cohesi
 
 | Domain                  | Technologies                                                                                                   |
 | ----------------------- | -------------------------------------------------------------------------------------------------------------- |
-| 🧠 **AI Engineering**      | `Keras`, `TensorFlow`, `PyTorch`                                                        |
+| 🧠 **AI/ML Engineering**      | `Keras`, `TensorFlow`, `PyTorch`                                                        |
 | 😶‍🌫️ **GenAI Engineering**      | `Autogen`, `Semantic Kernel`, `Langchain`, `LangGraph`                                                        |
 | 🖥️ **Frontend**      | `Godot-Rust`, `Uno Platform`                                                       |
 | 🚀 **Backend**             | `Axum`, `.NET`                                                                                                 |
