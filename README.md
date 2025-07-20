@@ -36,8 +36,9 @@ Building high-performance, intelligent systems from the ground up using a cohesi
 
 | Domain                  | Technologies                                                                                                   |
 | ----------------------- | -------------------------------------------------------------------------------------------------------------- |
-| 🧠 **AI Engineering**      | `Keras`, `TensorFlow`, `LangChain`, `LangGraph`                                                        |
-| 🖥️ **Frontend**      | `Godot`, `Uno Platform`                                                       |
+| 🧠 **AI Engineering**      | `Keras`, `TensorFlow`, `PyTorch`                                                        |
+| 😶‍🌫️ **GenAI Engineering**      | `Autogen`, `Semantic Kernel`, `Langchain`, `LangGraph`                                                        |
+| 🖥️ **Frontend**      | `Godot-Rust`, `Uno Platform`                                                       |
 | 🚀 **Backend**             | `Axum`, `.NET`                                                                                                 |
 | 📊 **Data Engineering**    | `PostgreSQL`, `SurrealDB`, `Apache Airflow`                                                                                  |
 | 🤖 **Robotics & IoT**      | `Godot + ROS2`, `RTIC`, `Rust IoT Platform`                                                                               |
