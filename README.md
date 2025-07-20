@@ -40,6 +40,7 @@ Building high-performance, intelligent systems from the ground up using a cohesi
 | 😶‍🌫️ **Agentic AI**      | `Autogen`, `Semantic Kernel`, `Langchain`, `LangGraph`                                                        |
 | 🖥️ **Frontend**      | `Godot-Rust`, `Uno Platform`                                                       |
 | 🚀 **Backend**             | `Axum`, `.NET`                                                                                                 |
+| 📈 **Data Science**    | `Scikit-Learn`, `Numpy`, `Pandas`, `Matplotlib`                                                                                 |
 | 📊 **Data Engineering**    | `PostgreSQL`, `SurrealDB`, `Apache Airflow`                                                                                  |
 | 🤖 **Robotics & IoT**      | `Godot + ROS2`, `RTIC`, `Rust IoT Platform`                                                                               |
 | 🕶️ **XR Development**     | `Godot`, `OpenXR`                                                                                              |
