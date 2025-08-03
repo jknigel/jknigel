@@ -21,7 +21,7 @@
 
 ---
 
-I specialise in creating **AI systems** (Agentic AI, World LLMs and ML/Deep learning) that integrate with the **Internet of Everything**:
+I specialise in creating **AI systems** (Agentic AI, World LLMs and ML/Deep learning) that integrate with the **Internet of Everything (IoE)**:
 - UI/UX for Human-Computer Interactions
 - Software, Apps
 - Hardware, Robotics, IoT, Embedded Systems 
