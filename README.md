@@ -28,6 +28,7 @@ I specialise in creating **AI systems** (Agentic AI, World LLMs and ML/Deep lear
 - Extended Realities
 - Processes
 - Data/Knowledge
+
 Building the next generation of unified intelligent systems. 
 
 ---
