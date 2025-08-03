@@ -4,7 +4,7 @@
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
   <h3 align="center">AI engineer (IoE integrations specialisation)</h3>
-  <h5 align="center">Bridging AI, software, and the physical world to create a smarter, more connected future.</h5>
+  <h5 align="center">Unifying AI with our digital world & physical universe.</h5>
 </div>
 
 <div align="center">
@@ -21,7 +21,14 @@
 
 ---
 
-I specialise in creating **AI systems** (Agentic AI, World LLMs and ML/Deep learning) that are integrated with the **Internet of Everything** (People UI/UX, Software/Apps, Hardware like robotics/IoT/Embedded systems, Processes, Data/Knowledge and XR), building the next generation of intelligent systems at the intersection of software, hardware, and data. 
+I specialise in creating **AI systems** (Agentic AI, World LLMs and ML/Deep learning) that integrate with the **Internet of Everything**:
+- UI/UX for Human-Computer Interactions
+- Software, Apps
+- Hardware, Robotics, IoT, Embedded Systems 
+- Extended Realities
+- Processes
+- Data/Knowledge
+Building the next generation of unified intelligent systems. 
 
 ---
 
