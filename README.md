@@ -3,7 +3,7 @@
     Hi there, I'm Nigel
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
-  <h3 align="center">Applied AI engineer</h3>
+  <h3 align="center">Applied AI Engineer</h3>
   <h5 align="center">Unifying AI with our digital world, physical universe and Internet of Everything (IoE)</h5>
 </div>
 
