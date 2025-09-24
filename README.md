@@ -29,7 +29,7 @@ I specialise in creating **AI systems** (Agentic AI, World LLMs and ML/Deep lear
 - Processes
 - Data/Knowledge bases
 
-Building the next generation of unified intelligent systems. 
+Building unified intelligent systems. 
 
 ---
 
