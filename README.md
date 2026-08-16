@@ -24,9 +24,9 @@
 
 ## About
 
-I build **AI systems** â€” agentic architectures, LLM pipelines and deep learning â€” and wire them into the physical and digital world:
+I build **AI systems** — agentic architectures, LLM pipelines and deep learning — and wire them into the physical and digital world:
 
-`Humanâ€“Computer Interaction`  Â·  `Software & Apps`  Â·  `Hardware, IoT & Embedded`  Â·  `Processes`  Â·  `Data & Knowledge Bases`
+`Human–Computer Interaction`  ·  `Software & Apps`  ·  `Hardware, IoT & Embedded`  ·  `Processes`  ·  `Data & Knowledge Bases`
 
 > Building unified intelligent systems.
 
@@ -47,7 +47,7 @@ I build **AI systems** â€” agentic architectures, LLM pipelines and deep le
 
 A Rust core, native shells on every platform, and agentic AI throughout.
 
-#### ðŸ¤– &nbsp;Agentic AI
+#### 🤖 &nbsp;Agentic AI
 
 ![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white)
 ![Codex CLI](https://img.shields.io/badge/Codex_CLI-412991?style=flat-square)
@@ -58,7 +58,7 @@ A Rust core, native shells on every platform, and agentic AI throughout.
 ![Autogen](https://img.shields.io/badge/Autogen-0078D4?style=flat-square)
 ![Semantic Kernel](https://img.shields.io/badge/Semantic_Kernel-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 
-#### ðŸ§  &nbsp;AI / ML Engineering
+#### 🧠 &nbsp;AI / ML Engineering
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
@@ -67,7 +67,7 @@ A Rust core, native shells on every platform, and agentic AI throughout.
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 
-#### ðŸ“± &nbsp;Cross-Platform â€” Crux core, native shells
+#### 📱 &nbsp;Cross-Platform — Crux core, native shells
 
 ![Crux](https://img.shields.io/badge/Crux-000000?style=flat-square&logo=rust&logoColor=white)
 ![SwiftUI](https://img.shields.io/badge/SwiftUI-0071E3?style=flat-square&logo=swift&logoColor=white)
@@ -75,7 +75,7 @@ A Rust core, native shells on every platform, and agentic AI throughout.
 ![Leptos](https://img.shields.io/badge/Leptos-EF3939?style=flat-square&logo=leptos&logoColor=white)
 ![WebAssembly](https://img.shields.io/badge/WebAssembly-654FF0?style=flat-square&logo=webassembly&logoColor=white)
 
-#### âš™ï¸ &nbsp;Backend & Data
+#### ⚙️ &nbsp;Backend & Data
 
 ![Axum](https://img.shields.io/badge/Axum-000000?style=flat-square&logo=rust&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
@@ -83,7 +83,7 @@ A Rust core, native shells on every platform, and agentic AI throughout.
 ![SurrealDB](https://img.shields.io/badge/SurrealDB-FF00A0?style=flat-square&logo=surrealdb&logoColor=white)
 ![Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white)
 
-#### â˜ï¸ &nbsp;Cloud & DevOps
+#### ☁️ &nbsp;Cloud & DevOps
 
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
@@ -94,7 +94,7 @@ A Rust core, native shells on every platform, and agentic AI throughout.
 ## What Drives Me
 
 > I believe true AI innovation happens at the intersection of code, hardware, and human experience.
-> My goal is to build systems that connect everything â€” and everyone â€” intelligently.
+> My goal is to build systems that connect everything — and everyone — intelligently.
 
 ---
 
@@ -102,7 +102,7 @@ A Rust core, native shells on every platform, and agentic AI throughout.
 
 When not engineering the future, you'll find me:
 
-ðŸ¸ &nbsp;Playing badminton &nbsp;&nbsp;Â·&nbsp;&nbsp; â›³ &nbsp;Hitting the greens *(handicap: 15)*
+🏸 &nbsp;Playing badminton &nbsp;&nbsp;·&nbsp;&nbsp; ⛳ &nbsp;Hitting the greens *(handicap: 15)*
 
 ---
 
@@ -110,7 +110,7 @@ When not engineering the future, you'll find me:
 
 <div align="center">
 
-<!-- Rendered into this repo by .github/workflows/profile-3d-contrib.yml â€” served from the repo, so it cannot 404 -->
+<!-- Rendered into this repo by .github/workflows/profile-3d-contrib.yml — served from the repo, so it cannot 404 -->
 <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution graph"/>
 
 </div>
